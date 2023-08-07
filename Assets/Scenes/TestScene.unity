@@ -522,7 +522,7 @@ Transform:
   m_GameObject: {fileID: 1178324365}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 3, y: 3, z: 3}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
@@ -618,115 +618,10 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1576012254}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 3.35, y: 0.43, z: 0.81}
+  m_LocalPosition: {x: 6.33, y: 0.43, z: 4.18}
   m_LocalScale: {x: 2.5, y: 2.5, z: 2.5}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!1 &1708260665 stripped
-GameObject:
-  m_CorrespondingSourceObject: {fileID: 3913537628359526839, guid: ac969b9ec22fb684ba337225df849224,
-    type: 3}
-  m_PrefabInstance: {fileID: 384990121}
-  m_PrefabAsset: {fileID: 0}
---- !u!1001 &6961361823784976681
-PrefabInstance:
-  m_ObjectHideFlags: 0
-  serializedVersion: 2
-  m_Modification:
-    m_TransformParent: {fileID: 0}
-    m_Modifications:
-    - target: {fileID: 6961361825267846466, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_Name
-      value: Grass Painter
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846466, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_IsActive
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846468, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_RootOrder
-      value: 5
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846468, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_LocalPosition.x
-      value: -2.14
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846468, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_LocalPosition.y
-      value: -1.2745992
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846468, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_LocalPosition.z
-      value: -1.1103582
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846468, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_LocalRotation.w
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846468, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_LocalRotation.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846468, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_LocalRotation.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846468, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_LocalRotation.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846468, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.x
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846468, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.y
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846468, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: m_LocalEulerAnglesHint.z
-      value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846469, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: density
-      value: 0.029
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846469, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: paintRadius
-      value: 1.5
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846469, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: grassMaterial
-      value: 
-      objectReference: {fileID: 2100000, guid: c7f06317e15915e4d9dd267f3f02e4e4, type: 2}
-    - target: {fileID: 6961361825267846469, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: paintTargetLayer.m_Bits
-      value: 64
-      objectReference: {fileID: 0}
-    - target: {fileID: 6961361825267846469, guid: 53c2c447a3be72845bec614d7077b0fe,
-        type: 3}
-      propertyPath: grassPrefabs.Array.data[0]
-      value: 
-      objectReference: {fileID: 1708260665}
-    m_RemovedComponents: []
-  m_SourcePrefab: {fileID: 100100000, guid: 53c2c447a3be72845bec614d7077b0fe, type: 3}
