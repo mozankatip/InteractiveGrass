@@ -94,7 +94,7 @@ Material:
     - _EnableFogOnTransparent: 1
     - _Influence_Radius: 5.51
     - _Interaction_Radius: 1.5
-    - _Interaction_Strength: 2.5
+    - _Interaction_Strength: 3.29
     - _OpaqueCullMode: 2
     - _QueueControl: 0
     - _QueueOffset: 0
@@ -128,21 +128,21 @@ Material:
     - _TransparentZWrite: 0
     - _UseShadowThreshold: 0
     - _Wiggle_Offset: 0.426
-    - _Wind_Speed: 1.8
-    - _Wind_Strength: 0.5
+    - _Wind_Speed: 1.58
+    - _Wind_Strength: 0.19
     - _ZTestDepthEqualForOpaque: 3
     - _ZTestGBuffer: 4
     - _ZTestTransparent: 4
     - _ZWrite: 1
     m_Colors:
-    - _Bottom_Color: {r: 0, g: 0.58431375, b: 0.03770849, a: 1}
+    - _Bottom_Color: {r: 0.12932633, g: 0.58431375, b: 0, a: 1}
     - _DiffusionProfileAsset: {r: -3.698545e+22, g: 20.616848, b: -5.291675e-28, a: -1.3520143e+18}
     - _DoubleSidedConstants: {r: 1, g: 1, b: 1, a: 0}
     - _EmissionColor: {r: 1, g: 1, b: 1, a: 1}
     - _InteractorPosition: {r: 4.18, g: 0, b: 7.8, a: 0}
     - _Interactor_Position: {r: 1.71, g: 1.45, b: 2.73, a: 0}
-    - _Top_Color: {r: 0, g: 0.6901961, b: 0.3477079, a: 1}
-    - _Wind_Direction: {r: 0.2, g: 0.3, b: 1, a: 0}
+    - _Top_Color: {r: 0, g: 0.6901961, b: 0.35508278, a: 1}
+    - _Wind_Direction: {r: 2.66, g: 0.46, b: 4.58, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &2110104763026319433
 MonoBehaviour:
