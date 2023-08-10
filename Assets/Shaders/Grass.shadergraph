@@ -3566,7 +3566,7 @@
     "m_RenderFace": 2,
     "m_AlphaClip": false,
     "m_CastShadows": true,
-    "m_ReceiveShadows": true,
+    "m_ReceiveShadows": false,
     "m_CustomEditorGUI": "",
     "m_SupportVFX": false
 }
@@ -4817,8 +4817,8 @@
     "m_ObjectId": "a3f017e65d06432f97f1df65a76dd5d2",
     "m_Title": "INTERACTIVITY",
     "m_Position": {
-        "x": -2278.0,
-        "y": -1153.0
+        "x": -2417.599853515625,
+        "y": -1147.199951171875
     }
 }
 
@@ -5012,10 +5012,10 @@
         "m_Expanded": true,
         "m_Position": {
             "serializedVersion": "2",
-            "x": -2228.000244140625,
+            "x": -2224.0,
             "y": -1028.0,
-            "width": 163.0,
-            "height": 34.0
+            "width": 163.199951171875,
+            "height": 33.60003662109375
         }
     },
     "m_Slots": [
